@@ -1,3 +1,14 @@
 PEDIDOS EN LINEA
+
 cliente: 3
+
+pedido: ensalada rosa
+
+cliente: 1
+pedido: hamburguesa con patatas
+
+cliente: 2
+pedido: pizza margarita
+
 pedido: ensalada 
+
