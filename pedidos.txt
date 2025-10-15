@@ -1,1 +1,3 @@
 PEDIDOS EN LINEA
+cliente: 3
+pedido: ensalada rosa
