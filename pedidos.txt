@@ -5,3 +5,6 @@ pedido: ensalada rosa
 
 cliente: 1
 pedido: hamburguesa con patatas
+
+cliente: 2
+pedido: pizza margarita
